@@ -1,5 +1,6 @@
 {
-    "python.pythonPath": "C:\\Data\\Develop\\Anaconda\\envs\\AI\\python.exe",
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+    "python.pythonPath": "C:\\Users\\yiminghe\\AppData\\Local\\anaconda3\\envs\\AI\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pep8Enabled": true
 }
