@@ -3,7 +3,6 @@ import onnx
 
 
 def onnx_check(model_file):
-    import onnx
     # Load the ONNX model
     model = onnx.load(model_file)
     # Check that the IR is well formed
